@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Development/Monogame Projects/game/MyGame/MyGame/Content/ball.png","D:/Development/Monogame Projects/game/MyGame/MyGame/Content/bin/Windows/ball.xnb","TextureProcessor","Texture2DContent",160,1685,0.1369345
+"D:/Development/Monogame Projects/game/MyGame/MyGame/Content/bong.png","D:/Development/Monogame Projects/game/MyGame/MyGame/Content/bin/Windows/paddle.xnb","TextureProcessor","Texture2DContent",192,8085,0.0089764
